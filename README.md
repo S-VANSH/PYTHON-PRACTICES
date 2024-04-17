@@ -8,6 +8,21 @@ Type Casting: This part changes the way numbers or words are seen by the compute
 Assigning Values to Multiple Variables in One Line: It's like giving names to different things all at once. For example, calling an apple, a banana, and an orange by their names in one go.
 One Value to Multiple Variables: This line gives the same value to many things at once. Like giving everyone in a room the same piece of candy.
 
+#READ ME FOR MODES.py
+
+Setting Initial State: 
+   - It starts by setting `current_mode` to "happy" and `grocery_bag` to have chocolate inside it.
+
+Upgrading Mood:
+   - It upgrades the mood by adding " and Excited" to the `current_mode` variable.
+   - Then, it prints out a message saying how the mood has been upgraded.
+   Checking User's Mood:
+   - It asks the user if they are feeling happy.
+   - If the user's mood isn't "Happy" (capitalization doesn't matter), it asks if they'd like a snack.
+   - If there's chocolate in the grocery bag, it says where to find it and hopes the user feels better with another snack.
+   - If there's no chocolate in the bag, it informs the user that chocolate is available and wishes them a good day.
+
+
 CONTIRBUTOR:
 VANSH
 
