@@ -56,6 +56,11 @@ It adds "chilli" to the shopping cart using append().
 Then, it removes "banana" from the list using remove().
 It prints out the modified shopping cart after each change
 
-CONTIRBUTOR:
-VANSH
+#READ ME FOR CLASS.py
 
+This code defines a `Drink` class with a constructor (`__init__`) to set the name and size of the drink.
+A string representation method (`__str__`). 
+It creates an instance of `Drink` called `hot_chocolate` with the name "Hot chocolate" and size "small", then prints it out.
+
+CONTRIBUTOR:
+VANSH
