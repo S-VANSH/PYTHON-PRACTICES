@@ -28,6 +28,14 @@ It asks the user to input two numbers, one after the other.
 Then, it adds those two numbers together.
 Finally, it prints out the result of the addition.
 
+#READ ME FOR SWAPPING NUMBERS.py
+
+It asks the user to input two numbers, one after the other.
+It then temporarily stores the value of the first number (a) in a variable called Temp.
+Next, it assigns the value of the second number (b) to a, effectively swapping the values of a and b.
+Finally, it assigns the original value of a (which was stored in Temp) to b.
+It prints out the new values of a and b.
+
 CONTIRBUTOR:
 VANSH
 
