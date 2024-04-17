@@ -1,4 +1,4 @@
-#READ ME FOR PRINT.PY FILE
+**READ ME FOR PRINT.PY**
 
 Simple Print: This code just prints out "hello" and "world" on separate lines. It's like typing words on a computer screen.
 Using `end` Keyword: Here, it prints "hello" and "world" on the same line, with a "-" between them. It's a bit like writing two words without a space between them.
@@ -8,7 +8,7 @@ Type Casting: This part changes the way numbers or words are seen by the compute
 Assigning Values to Multiple Variables in One Line: It's like giving names to different things all at once. For example, calling an apple, a banana, and an orange by their names in one go.
 One Value to Multiple Variables: This line gives the same value to many things at once. Like giving everyone in a room the same piece of candy.
 
-#READ ME FOR MODES.py
+**READ ME FOR MODES.py**
 
 Setting Initial State: 
    - It starts by setting `current_mode` to "happy" and `grocery_bag` to have chocolate inside it.
@@ -22,13 +22,13 @@ Upgrading Mood:
    - If there's chocolate in the grocery bag, it says where to find it and hopes the user feels better with another snack.
    - If there's no chocolate in the bag, it informs the user that chocolate is available and wishes them a good day.
 
-#READ ME FOR FUNCTION.py
+**READ ME FOR FUNCTION.py**
 
 It asks the user to input two numbers, one after the other.
 Then, it adds those two numbers together.
 Finally, it prints out the result of the addition.
 
-#READ ME FOR SWAPPING NUMBERS.py
+**READ ME FOR SWAPPING NUMBERS.py**
 
 It asks the user to input two numbers, one after the other.
 It then temporarily stores the value of the first number (a) in a variable called Temp.
@@ -36,7 +36,7 @@ Next, it assigns the value of the second number (b) to a, effectively swapping t
 Finally, it assigns the original value of a (which was stored in Temp) to b.
 It prints out the new values of a and b.
 
-#READ ME FOR DEF & LIST.py
+**READ ME FOR DEF & LIST.py**
 
 Creating a New Group:
 
@@ -56,11 +56,26 @@ It adds "chilli" to the shopping cart using append().
 Then, it removes "banana" from the list using remove().
 It prints out the modified shopping cart after each change
 
-#READ ME FOR CLASS.py
+**READ ME FOR CLASS.py**
 
 This code defines a `Drink` class with a constructor (`__init__`) to set the name and size of the drink.
 A string representation method (`__str__`). 
 It creates an instance of `Drink` called `hot_chocolate` with the name "Hot chocolate" and size "small", then prints it out.
+
+**READ ME FOR MATHEMATICS.py**
+
+Addition:
+   - It adds `a` and `b`, stores the result in `c`, and prints the result along with a description.
+Subtraction:
+   - It subtracts `b` from `a`, stores the result in `d`, and prints the result along with a description.
+Multiplication:
+   - It multiplies `a` and `b`, stores the result in `e`, and prints the result along with a description.
+Division:
+   - It divides `a` by `b`, stores the result in `f`, and prints the result along with a description.
+Modulus (Remainder):
+   - It calculates the remainder when `a` is divided by `b`, stores the result in `g`, and prints the result along with a description.
+Exponentiation:
+   - It raises `a` to the power of `b`, stores the result in `h`, but there's a syntax error here (missing "=" after `h`). 
 
 CONTRIBUTOR:
 VANSH
