@@ -36,6 +36,26 @@ Next, it assigns the value of the second number (b) to a, effectively swapping t
 Finally, it assigns the original value of a (which was stored in Temp) to b.
 It prints out the new values of a and b.
 
+#READ ME FOR DEF & LIST.py
+
+Creating a New Group:
+
+It defines a function called new_group that was supposed to take in a group name and its members, but inside the function, it sets group_name to "eagles" and members to a tuple containing "sahil", "vansh", and "harshdeep".
+Then, it assigns a new tuple ("harsh", "sahil") to new_group, overwriting the function.
+Finally, it tries to call new_group as a function, which won't work because it was overwritten by the tuple assignment.
+
+Generating a Band Name:
+
+It defines a function called generate_band_name that asks the user for their city and pet's name, then returns a string combining them to suggest a band name.
+It then calls this function, stores the result in band_name, and prints it out.
+
+Working with Lists:
+
+It creates a list called shopping_cart containing various items.
+It adds "chilli" to the shopping cart using append().
+Then, it removes "banana" from the list using remove().
+It prints out the modified shopping cart after each change
+
 CONTIRBUTOR:
 VANSH
 
