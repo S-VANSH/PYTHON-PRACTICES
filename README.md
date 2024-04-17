@@ -22,6 +22,11 @@ Upgrading Mood:
    - If there's chocolate in the grocery bag, it says where to find it and hopes the user feels better with another snack.
    - If there's no chocolate in the bag, it informs the user that chocolate is available and wishes them a good day.
 
+#READ ME FOR FUNCTION.py
+
+It asks the user to input two numbers, one after the other.
+Then, it adds those two numbers together.
+Finally, it prints out the result of the addition.
 
 CONTIRBUTOR:
 VANSH
